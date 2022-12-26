@@ -25,6 +25,7 @@
 - [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
   - [[번역] 리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down)
   - [[번역] 리액트 개발자의 답장 "리액트, 널 사랑하지만 넌 나를 슬프게 해"](https://velog.io/@phw3071/%EB%B2%88%EC%97%AD-%EB%A6%AC%EC%95%A1%ED%8A%B8%EA%B0%80-%EB%B3%B4%EB%82%B8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%90-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80%EB%A7%8C-%EB%84%8C-%EB%82%98%EB%A5%BC-%EC%8A%AC%ED%94%84%EA%B2%8C-%ED%95%B4%EC%9D%98-%EB%8B%B5%EC%9E%A5)
+- [전역 상태 관리에 대한 단상](https://jbee.io/react/thinking-about-global-state/)
 
 ### WEB
 
