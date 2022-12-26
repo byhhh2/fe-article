@@ -40,3 +40,11 @@
 ### CS
 
 - [블로킹 vs 논블로킹, 동기 vs 비동기](https://velog.io/@nittre/%EB%B8%94%EB%A1%9C%ED%82%B9-Vs.-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%8F%99%EA%B8%B0-Vs.-%EB%B9%84%EB%8F%99%EA%B8%B0)
+
+<br>
+
+## 기여하기 
+
+1. 해당 레포지토리를 fork한다. 
+2. 추가하고 싶은 아티클 주소를 리스트 형식으로 `README.md`에 첨부한다. 
+3. [PR](https://github.com/byhhh2/fe-article/compare)을 작성한다.
