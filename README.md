@@ -32,6 +32,11 @@
 - [웹 서비스 캐시 똑똑하게 다루기 - 토스](https://toss.tech/article/smart-web-service-cache)
 - [웹 폰트 로딩을 더 빠르게 하는 방법](https://yceffort.kr/2021/06/ways-to-faster-web-fonts#optional)
 - [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+- [웹 성능을 위한 이미지 최적화](https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94)
+- [HTML srcset sizes 한국에서 제일 쉽게 설명](https://codingcoding.tistory.com/386)
+- [PNG, JPG, or JPEG: What is the Difference Between These Image Formats and How to Choose Them?](https://repairit.wondershare.com/photo-repair/png-jpg-jpeg.html) 
+
+
 
 ### CSS
 
