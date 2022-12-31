@@ -42,6 +42,7 @@
 ### CSS
 
 - [카카오웹툰은 CSS를 어떻게 작성하고 있을까? - kakao](https://fe-developers.kakaoent.com/2022/220210-css-in-kakaowebtoon/)
+- [CSS Triggers](https://blinders.tistory.com/92)
 
 ### CS
 
