@@ -44,6 +44,8 @@
 - [카카오웹툰은 CSS를 어떻게 작성하고 있을까? - kakao](https://fe-developers.kakaoent.com/2022/220210-css-in-kakaowebtoon/)
 - [CSS Triggers](https://blinders.tistory.com/92)
 - [opacity는 reflow가 발생 안 한다구요...? 정말??](https://blinders.tistory.com/93) 
+- [역사로 알아보는 CSS가 어려워진 이유 1편](https://yozm.wishket.com/magazine/detail/1319/)
+- [역사로 알아보는 CSS가 어려워진 이유 2편](https://yozm.wishket.com/magazine/detail/1326/)
 
 ### CS
 
