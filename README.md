@@ -35,26 +35,24 @@
 - [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
 - [웹 성능을 위한 이미지 최적화](https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [HTML srcset sizes 한국에서 제일 쉽게 설명](https://codingcoding.tistory.com/386)
-- [PNG, JPG, or JPEG: What is the Difference Between These Image Formats and How to Choose Them?](https://repairit.wondershare.com/photo-repair/png-jpg-jpeg.html) 
-
-
+- [PNG, JPG, or JPEG: What is the Difference Between These Image Formats and How to Choose Them?](https://repairit.wondershare.com/photo-repair/png-jpg-jpeg.html)
 
 ### CSS
 
 - [카카오웹툰은 CSS를 어떻게 작성하고 있을까? - kakao](https://fe-developers.kakaoent.com/2022/220210-css-in-kakaowebtoon/)
 - [CSS Triggers](https://blinders.tistory.com/92)
-- [opacity는 reflow가 발생 안 한다구요...? 정말??](https://blinders.tistory.com/93) 
+- [opacity는 reflow가 발생 안 한다구요...? 정말??](https://blinders.tistory.com/93)
 - [역사로 알아보는 CSS가 어려워진 이유 1편](https://yozm.wishket.com/magazine/detail/1319/)
 - [역사로 알아보는 CSS가 어려워진 이유 2편](https://yozm.wishket.com/magazine/detail/1326/)
 
 ### CS
 
 - [블로킹 vs 논블로킹, 동기 vs 비동기](https://velog.io/@nittre/%EB%B8%94%EB%A1%9C%ED%82%B9-Vs.-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%8F%99%EA%B8%B0-Vs.-%EB%B9%84%EB%8F%99%EA%B8%B0)
+- [BFF 패턴](https://dev.to/adelhamad/bff-backend-for-frontend-design-pattern-with-nextjs-3od0)
+  <br>
 
-<br>
+## 기여하기
 
-## 기여하기 
-
-1. 해당 레포지토리를 fork한다. 
-2. 추가하고 싶은 아티클 주소를 리스트 형식으로 `README.md`에 첨부한다. 
+1. 해당 레포지토리를 fork한다.
+2. 추가하고 싶은 아티클 주소를 리스트 형식으로 `README.md`에 첨부한다.
 3. [PR](https://github.com/byhhh2/fe-article/compare)을 작성한다.
