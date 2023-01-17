@@ -3,6 +3,7 @@
 ## 기술 블로그
 
 - [국내외 기술 개발 블로그들 (TechBlogs)](https://github.com/seongkyu-lim/TechBlogs)
+- [김용찬님 블로그](https://yceffort.kr/)
 
 <br>
 
