@@ -49,7 +49,7 @@
 ### CS
 
 - [블로킹 vs 논블로킹, 동기 vs 비동기](https://velog.io/@nittre/%EB%B8%94%EB%A1%9C%ED%82%B9-Vs.-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%8F%99%EA%B8%B0-Vs.-%EB%B9%84%EB%8F%99%EA%B8%B0)
-- [BFF 패턴](https://dev.to/adelhamad/bff-backend-for-frontend-design-pattern-with-nextjs-3od0)
+- [BFF - Backend for Frontend Design Pattern with Next.js](https://dev.to/adelhamad/bff-backend-for-frontend-design-pattern-with-nextjs-3od0)
   <br>
 
 ## 기여하기
